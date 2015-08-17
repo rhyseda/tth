@@ -9,3 +9,7 @@ Version: 1.0
 */
 
 @import "../twentythirteen/style.css";
+
+.navbar {
+    background-color: #220e10;
+}
