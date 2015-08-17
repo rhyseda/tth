@@ -1,0 +1,1 @@
+[14-Aug-2015 00:29:34 UTC] PHP Fatal error:  Class 'Symfony\Component\Finder\Finder' not found in /usr/local/WPUpdate/contrib/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/FileCache.php on line 329
