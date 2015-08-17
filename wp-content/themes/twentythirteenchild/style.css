@@ -13,3 +13,7 @@ Version: 1.0
 .navbar {
     background-color: #220e10;
 }
+
+.nav-menu li a {
+  color: #fff;
+}
